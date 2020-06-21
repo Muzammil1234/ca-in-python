@@ -1,5 +1,5 @@
 ===================================
-Copmutation Argumentation in Python
+Computation Argumentation in Python
 ===================================
 
 
@@ -18,3 +18,4 @@ quality, to the retrieval of arguments in web search.
 The course link can be found here_.
 
 .. _here: https://en.cs.uni-paderborn.de/css/teaching/courses/computational-argumentation-s19
+
