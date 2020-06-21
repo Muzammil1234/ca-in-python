@@ -1,0 +1,542 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Contents 16 0 R /MediaBox [ 0 0 612 1008 ] /Parent 15 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Outlines 10 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 15 0 R /Type /Catalog
+>>
+endobj
+9 0 obj
+<<
+/Author (Muzammil Ahmed) /CreationDate (D:20200509222236-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200509222236-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (README) /Trapped /False
+>>
+endobj
+10 0 obj
+<<
+/Count 4 /First 11 0 R /Last 14 0 R /Type /Outlines
+>>
+endobj
+11 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 870.1339 0 ] /Next 12 0 R /Parent 10 0 R /Title (1. Setup the environment)
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 779.9339 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (2. Install the package)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 695.7339 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (3. Usage)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 538.3339 0 ] /Parent 10 0 R /Prev 13 0 R /Title (4. Explanation of Specific Words Determination)
+>>
+endobj
+15 0 obj
+<<
+/Count 1 /Kids [ 7 0 R ] /Type /Pages
+>>
+endobj
+16 0 obj
+<<
+/Length 7739
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 907.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 199.9771 0 Td (README) Tj T* -199.9771 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 882.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Muzammil Ahmed) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 849.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1. Setup the environment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 791.9339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 0 246 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf 0 0 .501961 rg ($) Tj /F4 10 Tf 0 0 0 rg ( python -m pip install virtualenv) Tj T* /F3 10 Tf 0 0 .501961 rg ($) Tj /F4 10 Tf 0 0 0 rg ( virtualenv venv) Tj T* /F3 10 Tf 0 0 .501961 rg ($) Tj /F4 10 Tf 0 0 0 rg ( . venv/Scripts/activate  ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# you should now see a \(venv\) in your cli) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 758.9339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2. Install the package) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 740.9339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Install the package using:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.7339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 .501961 rg ($) Tj /F4 10 Tf 0 0 0 rg ( python -m pip install -r requirements.txt) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 674.7339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (3. Usage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 656.7339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To generate the output.json, run the following from root:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 623.5339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 150 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 198 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 0 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg ($) Tj ( ) Tj (python) Tj ( ) Tj (code) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (gen) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (unified) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (corpora) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 603.5339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To view the statistical metrics, start the jupyter lab as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.3339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 18 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg ($) Tj ( ) Tj (jupyter) Tj ( ) Tj (lab) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 550.3339 cm
+q
+.960784 .960784 .862745 rg
+n 94.51 0 186 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (And then navigate to ) Tj /F4 10 Tf (code/statistical-analysis.ipynb) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 517.3339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (4. Explanation of Specific Words Determination) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First of all a couple of points on what was considered a "word":) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 493.3339 cm
+Q
+q
+1 0 0 1 62.69291 493.3339 cm
+Q
+q
+1 0 0 1 62.69291 481.3339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (One token \(i.e. from spaCy's tokenizer\) was treated as one word) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 475.3339 cm
+Q
+q
+1 0 0 1 62.69291 463.3339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Keep count of words only that are NOT stopwords \(i.e. spaCy stopwords\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 463.3339 cm
+Q
+q
+1 0 0 1 62.69291 457.3339 cm
+Q
+q
+1 0 0 1 62.69291 445.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 433.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 433.3339 cm
+Q
+q
+1 0 0 1 62.69291 415.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Then most specific words were defined as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 373.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL -0.012239 Tw (A word in an argument \(major claim, claims or premises\) may be called most-specific to that argument) Tj T* 0 Tw -0.008101 Tw (if it has the highest frequency in that argument AND may not appear in most-specific word list of other) Tj T* 0 Tw (arguments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 343.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .239676 Tw (For example the word "people" appears in all three lists as the word with highest frequency in their respective) Tj T* 0 Tw (arguments but is not a specific word since it appears in more than one top-10 lists.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 325.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The technical implementation was achieved using three major data structures:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 319.3339 cm
+Q
+q
+1 0 0 1 62.69291 319.3339 cm
+Q
+q
+1 0 0 1 62.69291 307.3339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dictionary to keep the words and their frequency count) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 301.3339 cm
+Q
+q
+1 0 0 1 62.69291 289.3339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets to check intersection among lists) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 283.3339 cm
+Q
+q
+1 0 0 1 62.69291 271.3339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Heap trees to fetch the next highest frequency element \(within an arugment\) efficiently) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 271.3339 cm
+Q
+q
+1 0 0 1 62.69291 265.3339 cm
+Q
+q
+1 0 0 1 62.69291 253.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 253.3339 cm
+Q
+q
+1 0 0 1 62.69291 211.3339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.515709 Tw (Also, it was important to implement the algorithm in such a way that no matter which of the three lists of) Tj T* 0 Tw .801012 Tw (most-specific words was determined first, it should have no impact on other arguments' most-specific words) Tj T* 0 Tw (lists.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+17 0 obj
+<<
+/Nums [ 0 18 0 R ]
+>>
+endobj
+18 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000073 00000 n 
+0000000144 00000 n 
+0000000251 00000 n 
+0000000363 00000 n 
+0000000473 00000 n 
+0000000578 00000 n 
+0000000691 00000 n 
+0000000887 00000 n 
+0000000992 00000 n 
+0000001269 00000 n 
+0000001343 00000 n 
+0000001468 00000 n 
+0000001604 00000 n 
+0000001726 00000 n 
+0000001873 00000 n 
+0000001933 00000 n 
+0000009724 00000 n 
+0000009765 00000 n 
+trailer
+<<
+/ID 
+[<2e8d3bdf8ff051573e8d5acfa2c2592d><2e8d3bdf8ff051573e8d5acfa2c2592d>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 19
+>>
+startxref
+9799
+%%EOF
